@@ -1,0 +1,793 @@
+{
+  "image": "/generated-assets/upper_enemies_b_move-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 4,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "bone_hound_move_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 52,
+        "y": 43,
+        "w": 346,
+        "h": 275
+      },
+      "anchor": {
+        "x": 225,
+        "y": 317
+      }
+    },
+    {
+      "name": "bone_hound_move_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 439,
+        "y": 50,
+        "w": 339,
+        "h": 268
+      },
+      "anchor": {
+        "x": 609,
+        "y": 317
+      }
+    },
+    {
+      "name": "bone_hound_move_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 824,
+        "y": 45,
+        "w": 329,
+        "h": 273
+      },
+      "anchor": {
+        "x": 989,
+        "y": 317
+      }
+    },
+    {
+      "name": "bone_hound_move_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1217,
+        "y": 42,
+        "w": 329,
+        "h": 276
+      },
+      "anchor": {
+        "x": 1382,
+        "y": 317
+      }
+    },
+    {
+      "name": "bone_hound_move_5",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1586,
+        "y": 43,
+        "w": 345,
+        "h": 275
+      },
+      "anchor": {
+        "x": 1759,
+        "y": 317
+      }
+    },
+    {
+      "name": "flare_salamander_move_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 32,
+        "y": 381,
+        "w": 361,
+        "h": 246
+      },
+      "anchor": {
+        "x": 213,
+        "y": 626
+      }
+    },
+    {
+      "name": "flare_salamander_move_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 421,
+        "y": 379,
+        "w": 357,
+        "h": 248
+      },
+      "anchor": {
+        "x": 600,
+        "y": 626
+      }
+    },
+    {
+      "name": "flare_salamander_move_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 808,
+        "y": 385,
+        "w": 356,
+        "h": 242
+      },
+      "anchor": {
+        "x": 986,
+        "y": 626
+      }
+    },
+    {
+      "name": "flare_salamander_move_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1193,
+        "y": 380,
+        "w": 357,
+        "h": 247
+      },
+      "anchor": {
+        "x": 1372,
+        "y": 626
+      }
+    },
+    {
+      "name": "flare_salamander_move_5",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1579,
+        "y": 378,
+        "w": 357,
+        "h": 249
+      },
+      "anchor": {
+        "x": 1758,
+        "y": 626
+      }
+    },
+    {
+      "name": "dream_jelly_move_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 49,
+        "y": 687,
+        "w": 330,
+        "h": 312
+      },
+      "anchor": {
+        "x": 214,
+        "y": 998
+      }
+    },
+    {
+      "name": "dream_jelly_move_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 438,
+        "y": 697,
+        "w": 332,
+        "h": 303
+      },
+      "anchor": {
+        "x": 604,
+        "y": 999
+      }
+    },
+    {
+      "name": "dream_jelly_move_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 824,
+        "y": 697,
+        "w": 325,
+        "h": 303
+      },
+      "anchor": {
+        "x": 987,
+        "y": 999
+      }
+    },
+    {
+      "name": "dream_jelly_move_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1203,
+        "y": 697,
+        "w": 334,
+        "h": 299
+      },
+      "anchor": {
+        "x": 1370,
+        "y": 995
+      }
+    },
+    {
+      "name": "dream_jelly_move_5",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1588,
+        "y": 699,
+        "w": 336,
+        "h": 298
+      },
+      "anchor": {
+        "x": 1756,
+        "y": 996
+      }
+    },
+    {
+      "name": "glass_deacon_move_1",
+      "source": {
+        "x": 56,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 32,
+        "y": 1028,
+        "w": 345,
+        "h": 505
+      },
+      "anchor": {
+        "x": 205,
+        "y": 1532
+      }
+    },
+    {
+      "name": "glass_deacon_move_2",
+      "source": {
+        "x": 440,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 413,
+        "y": 1029,
+        "w": 352,
+        "h": 504
+      },
+      "anchor": {
+        "x": 589,
+        "y": 1532
+      }
+    },
+    {
+      "name": "glass_deacon_move_3",
+      "source": {
+        "x": 824,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 801,
+        "y": 1028,
+        "w": 360,
+        "h": 505
+      },
+      "anchor": {
+        "x": 981,
+        "y": 1532
+      }
+    },
+    {
+      "name": "glass_deacon_move_4",
+      "source": {
+        "x": 1208,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1186,
+        "y": 1028,
+        "w": 356,
+        "h": 505
+      },
+      "anchor": {
+        "x": 1364,
+        "y": 1532
+      }
+    },
+    {
+      "name": "glass_deacon_move_5",
+      "source": {
+        "x": 1592,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1577,
+        "y": 1028,
+        "w": 353,
+        "h": 505
+      },
+      "anchor": {
+        "x": 1754,
+        "y": 1532
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "bone_hound_move",
+      "frames": [
+        {
+          "name": "bone_hound_move_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 52,
+            "y": 43,
+            "w": 346,
+            "h": 275
+          },
+          "anchor": {
+            "x": 225,
+            "y": 317
+          }
+        },
+        {
+          "name": "bone_hound_move_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 439,
+            "y": 50,
+            "w": 339,
+            "h": 268
+          },
+          "anchor": {
+            "x": 609,
+            "y": 317
+          }
+        },
+        {
+          "name": "bone_hound_move_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 824,
+            "y": 45,
+            "w": 329,
+            "h": 273
+          },
+          "anchor": {
+            "x": 989,
+            "y": 317
+          }
+        },
+        {
+          "name": "bone_hound_move_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1217,
+            "y": 42,
+            "w": 329,
+            "h": 276
+          },
+          "anchor": {
+            "x": 1382,
+            "y": 317
+          }
+        },
+        {
+          "name": "bone_hound_move_5",
+          "source": {
+            "x": 1592,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1586,
+            "y": 43,
+            "w": 345,
+            "h": 275
+          },
+          "anchor": {
+            "x": 1759,
+            "y": 317
+          }
+        }
+      ]
+    },
+    {
+      "name": "flare_salamander_move",
+      "frames": [
+        {
+          "name": "flare_salamander_move_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 32,
+            "y": 381,
+            "w": 361,
+            "h": 246
+          },
+          "anchor": {
+            "x": 213,
+            "y": 626
+          }
+        },
+        {
+          "name": "flare_salamander_move_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 421,
+            "y": 379,
+            "w": 357,
+            "h": 248
+          },
+          "anchor": {
+            "x": 600,
+            "y": 626
+          }
+        },
+        {
+          "name": "flare_salamander_move_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 808,
+            "y": 385,
+            "w": 356,
+            "h": 242
+          },
+          "anchor": {
+            "x": 986,
+            "y": 626
+          }
+        },
+        {
+          "name": "flare_salamander_move_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1193,
+            "y": 380,
+            "w": 357,
+            "h": 247
+          },
+          "anchor": {
+            "x": 1372,
+            "y": 626
+          }
+        },
+        {
+          "name": "flare_salamander_move_5",
+          "source": {
+            "x": 1592,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1579,
+            "y": 378,
+            "w": 357,
+            "h": 249
+          },
+          "anchor": {
+            "x": 1758,
+            "y": 626
+          }
+        }
+      ]
+    },
+    {
+      "name": "dream_jelly_move",
+      "frames": [
+        {
+          "name": "dream_jelly_move_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 49,
+            "y": 687,
+            "w": 330,
+            "h": 312
+          },
+          "anchor": {
+            "x": 214,
+            "y": 998
+          }
+        },
+        {
+          "name": "dream_jelly_move_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 438,
+            "y": 697,
+            "w": 332,
+            "h": 303
+          },
+          "anchor": {
+            "x": 604,
+            "y": 999
+          }
+        },
+        {
+          "name": "dream_jelly_move_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 824,
+            "y": 697,
+            "w": 325,
+            "h": 303
+          },
+          "anchor": {
+            "x": 987,
+            "y": 999
+          }
+        },
+        {
+          "name": "dream_jelly_move_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1203,
+            "y": 697,
+            "w": 334,
+            "h": 299
+          },
+          "anchor": {
+            "x": 1370,
+            "y": 995
+          }
+        },
+        {
+          "name": "dream_jelly_move_5",
+          "source": {
+            "x": 1592,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1588,
+            "y": 699,
+            "w": 336,
+            "h": 298
+          },
+          "anchor": {
+            "x": 1756,
+            "y": 996
+          }
+        }
+      ]
+    },
+    {
+      "name": "glass_deacon_move",
+      "frames": [
+        {
+          "name": "glass_deacon_move_1",
+          "source": {
+            "x": 56,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 32,
+            "y": 1028,
+            "w": 345,
+            "h": 505
+          },
+          "anchor": {
+            "x": 205,
+            "y": 1532
+          }
+        },
+        {
+          "name": "glass_deacon_move_2",
+          "source": {
+            "x": 440,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 413,
+            "y": 1029,
+            "w": 352,
+            "h": 504
+          },
+          "anchor": {
+            "x": 589,
+            "y": 1532
+          }
+        },
+        {
+          "name": "glass_deacon_move_3",
+          "source": {
+            "x": 824,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 801,
+            "y": 1028,
+            "w": 360,
+            "h": 505
+          },
+          "anchor": {
+            "x": 981,
+            "y": 1532
+          }
+        },
+        {
+          "name": "glass_deacon_move_4",
+          "source": {
+            "x": 1208,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1186,
+            "y": 1028,
+            "w": 356,
+            "h": 505
+          },
+          "anchor": {
+            "x": 1364,
+            "y": 1532
+          }
+        },
+        {
+          "name": "glass_deacon_move_5",
+          "source": {
+            "x": 1592,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1577,
+            "y": 1028,
+            "w": 353,
+            "h": 505
+          },
+          "anchor": {
+            "x": 1754,
+            "y": 1532
+          }
+        }
+      ]
+    }
+  ]
+}

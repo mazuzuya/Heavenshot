@@ -1,0 +1,66 @@
+{
+  "image": "/generated-assets/platform_tiles-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 1,
+    "frameWidth": 224,
+    "frameHeight": 448
+  },
+  "frames": [
+    {
+      "name": "left",
+      "source": {
+        "x": 64,
+        "y": 64,
+        "w": 224,
+        "h": 448
+      },
+      "content": null,
+      "anchor": null,
+      "empty": true,
+      "connectsTo": [
+        "right"
+      ]
+    },
+    {
+      "name": "center",
+      "source": {
+        "x": 288,
+        "y": 64,
+        "w": 672,
+        "h": 448
+      },
+      "content": {
+        "x": 32,
+        "y": 168,
+        "w": 1184,
+        "h": 214
+      },
+      "anchor": {
+        "x": 624,
+        "y": 381
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 168,
+      "connectsTo": [
+        "left",
+        "right"
+      ]
+    },
+    {
+      "name": "right",
+      "source": {
+        "x": 960,
+        "y": 64,
+        "w": 224,
+        "h": 448
+      },
+      "content": null,
+      "anchor": null,
+      "empty": true,
+      "connectsTo": [
+        "left"
+      ]
+    }
+  ]
+}

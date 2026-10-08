@@ -1,0 +1,793 @@
+{
+  "image": "/generated-assets/new_enemies_attack-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 4,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "thorn_imp_attack_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 38,
+        "y": 61,
+        "w": 250,
+        "h": 277
+      },
+      "anchor": {
+        "x": 163,
+        "y": 337
+      }
+    },
+    {
+      "name": "thorn_imp_attack_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 406,
+        "y": 64,
+        "w": 298,
+        "h": 274
+      },
+      "anchor": {
+        "x": 555,
+        "y": 337
+      }
+    },
+    {
+      "name": "thorn_imp_attack_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 820,
+        "y": 61,
+        "w": 500,
+        "h": 277
+      },
+      "anchor": {
+        "x": 1070,
+        "y": 337
+      }
+    },
+    {
+      "name": "thorn_imp_attack_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1284,
+        "y": 120,
+        "w": 315,
+        "h": 184
+      },
+      "anchor": {
+        "x": 1442,
+        "y": 303
+      }
+    },
+    {
+      "name": "thorn_imp_attack_5",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1648,
+        "y": 65,
+        "w": 238,
+        "h": 273
+      },
+      "anchor": {
+        "x": 1767,
+        "y": 337
+      }
+    },
+    {
+      "name": "storm_drone_attack_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 32,
+        "y": 434,
+        "w": 298,
+        "h": 262
+      },
+      "anchor": {
+        "x": 181,
+        "y": 695
+      }
+    },
+    {
+      "name": "storm_drone_attack_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 394,
+        "y": 402,
+        "w": 331,
+        "h": 294
+      },
+      "anchor": {
+        "x": 560,
+        "y": 695
+      }
+    },
+    {
+      "name": "storm_drone_attack_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 800,
+        "y": 406,
+        "w": 305,
+        "h": 290
+      },
+      "anchor": {
+        "x": 953,
+        "y": 695
+      }
+    },
+    {
+      "name": "storm_drone_attack_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1157,
+        "y": 410,
+        "w": 450,
+        "h": 286
+      },
+      "anchor": {
+        "x": 1382,
+        "y": 695
+      }
+    },
+    {
+      "name": "storm_drone_attack_5",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1633,
+        "y": 434,
+        "w": 303,
+        "h": 263
+      },
+      "anchor": {
+        "x": 1785,
+        "y": 696
+      }
+    },
+    {
+      "name": "meteor_beetle_attack_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 31,
+        "y": 830,
+        "w": 318,
+        "h": 228
+      },
+      "anchor": {
+        "x": 190,
+        "y": 1057
+      }
+    },
+    {
+      "name": "meteor_beetle_attack_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 378,
+        "y": 861,
+        "w": 372,
+        "h": 197
+      },
+      "anchor": {
+        "x": 564,
+        "y": 1057
+      }
+    },
+    {
+      "name": "meteor_beetle_attack_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 784,
+        "y": 829,
+        "w": 432,
+        "h": 229
+      },
+      "anchor": {
+        "x": 1000,
+        "y": 1057
+      }
+    },
+    {
+      "name": "meteor_beetle_attack_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1225,
+        "y": 866,
+        "w": 375,
+        "h": 192
+      },
+      "anchor": {
+        "x": 1413,
+        "y": 1057
+      }
+    },
+    {
+      "name": "meteor_beetle_attack_5",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1627,
+        "y": 816,
+        "w": 310,
+        "h": 242
+      },
+      "anchor": {
+        "x": 1782,
+        "y": 1057
+      }
+    },
+    {
+      "name": "eclipse_wraith_attack_1",
+      "source": {
+        "x": 56,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 31,
+        "y": 1149,
+        "w": 283,
+        "h": 346
+      },
+      "anchor": {
+        "x": 173,
+        "y": 1494
+      }
+    },
+    {
+      "name": "eclipse_wraith_attack_2",
+      "source": {
+        "x": 440,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 393,
+        "y": 1130,
+        "w": 342,
+        "h": 376
+      },
+      "anchor": {
+        "x": 564,
+        "y": 1505
+      }
+    },
+    {
+      "name": "eclipse_wraith_attack_3",
+      "source": {
+        "x": 824,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 783,
+        "y": 1129,
+        "w": 335,
+        "h": 379
+      },
+      "anchor": {
+        "x": 951,
+        "y": 1507
+      }
+    },
+    {
+      "name": "eclipse_wraith_attack_4",
+      "source": {
+        "x": 1208,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1150,
+        "y": 1149,
+        "w": 466,
+        "h": 347
+      },
+      "anchor": {
+        "x": 1383,
+        "y": 1495
+      }
+    },
+    {
+      "name": "eclipse_wraith_attack_5",
+      "source": {
+        "x": 1592,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1641,
+        "y": 1147,
+        "w": 295,
+        "h": 360
+      },
+      "anchor": {
+        "x": 1789,
+        "y": 1506
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "thorn_imp_attack",
+      "frames": [
+        {
+          "name": "thorn_imp_attack_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 38,
+            "y": 61,
+            "w": 250,
+            "h": 277
+          },
+          "anchor": {
+            "x": 163,
+            "y": 337
+          }
+        },
+        {
+          "name": "thorn_imp_attack_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 406,
+            "y": 64,
+            "w": 298,
+            "h": 274
+          },
+          "anchor": {
+            "x": 555,
+            "y": 337
+          }
+        },
+        {
+          "name": "thorn_imp_attack_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 820,
+            "y": 61,
+            "w": 500,
+            "h": 277
+          },
+          "anchor": {
+            "x": 1070,
+            "y": 337
+          }
+        },
+        {
+          "name": "thorn_imp_attack_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1284,
+            "y": 120,
+            "w": 315,
+            "h": 184
+          },
+          "anchor": {
+            "x": 1442,
+            "y": 303
+          }
+        },
+        {
+          "name": "thorn_imp_attack_5",
+          "source": {
+            "x": 1592,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1648,
+            "y": 65,
+            "w": 238,
+            "h": 273
+          },
+          "anchor": {
+            "x": 1767,
+            "y": 337
+          }
+        }
+      ]
+    },
+    {
+      "name": "storm_drone_attack",
+      "frames": [
+        {
+          "name": "storm_drone_attack_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 32,
+            "y": 434,
+            "w": 298,
+            "h": 262
+          },
+          "anchor": {
+            "x": 181,
+            "y": 695
+          }
+        },
+        {
+          "name": "storm_drone_attack_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 394,
+            "y": 402,
+            "w": 331,
+            "h": 294
+          },
+          "anchor": {
+            "x": 560,
+            "y": 695
+          }
+        },
+        {
+          "name": "storm_drone_attack_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 800,
+            "y": 406,
+            "w": 305,
+            "h": 290
+          },
+          "anchor": {
+            "x": 953,
+            "y": 695
+          }
+        },
+        {
+          "name": "storm_drone_attack_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1157,
+            "y": 410,
+            "w": 450,
+            "h": 286
+          },
+          "anchor": {
+            "x": 1382,
+            "y": 695
+          }
+        },
+        {
+          "name": "storm_drone_attack_5",
+          "source": {
+            "x": 1592,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1633,
+            "y": 434,
+            "w": 303,
+            "h": 263
+          },
+          "anchor": {
+            "x": 1785,
+            "y": 696
+          }
+        }
+      ]
+    },
+    {
+      "name": "meteor_beetle_attack",
+      "frames": [
+        {
+          "name": "meteor_beetle_attack_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 31,
+            "y": 830,
+            "w": 318,
+            "h": 228
+          },
+          "anchor": {
+            "x": 190,
+            "y": 1057
+          }
+        },
+        {
+          "name": "meteor_beetle_attack_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 378,
+            "y": 861,
+            "w": 372,
+            "h": 197
+          },
+          "anchor": {
+            "x": 564,
+            "y": 1057
+          }
+        },
+        {
+          "name": "meteor_beetle_attack_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 784,
+            "y": 829,
+            "w": 432,
+            "h": 229
+          },
+          "anchor": {
+            "x": 1000,
+            "y": 1057
+          }
+        },
+        {
+          "name": "meteor_beetle_attack_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1225,
+            "y": 866,
+            "w": 375,
+            "h": 192
+          },
+          "anchor": {
+            "x": 1413,
+            "y": 1057
+          }
+        },
+        {
+          "name": "meteor_beetle_attack_5",
+          "source": {
+            "x": 1592,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1627,
+            "y": 816,
+            "w": 310,
+            "h": 242
+          },
+          "anchor": {
+            "x": 1782,
+            "y": 1057
+          }
+        }
+      ]
+    },
+    {
+      "name": "eclipse_wraith_attack",
+      "frames": [
+        {
+          "name": "eclipse_wraith_attack_1",
+          "source": {
+            "x": 56,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 31,
+            "y": 1149,
+            "w": 283,
+            "h": 346
+          },
+          "anchor": {
+            "x": 173,
+            "y": 1494
+          }
+        },
+        {
+          "name": "eclipse_wraith_attack_2",
+          "source": {
+            "x": 440,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 393,
+            "y": 1130,
+            "w": 342,
+            "h": 376
+          },
+          "anchor": {
+            "x": 564,
+            "y": 1505
+          }
+        },
+        {
+          "name": "eclipse_wraith_attack_3",
+          "source": {
+            "x": 824,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 783,
+            "y": 1129,
+            "w": 335,
+            "h": 379
+          },
+          "anchor": {
+            "x": 951,
+            "y": 1507
+          }
+        },
+        {
+          "name": "eclipse_wraith_attack_4",
+          "source": {
+            "x": 1208,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1150,
+            "y": 1149,
+            "w": 466,
+            "h": 347
+          },
+          "anchor": {
+            "x": 1383,
+            "y": 1495
+          }
+        },
+        {
+          "name": "eclipse_wraith_attack_5",
+          "source": {
+            "x": 1592,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1641,
+            "y": 1147,
+            "w": 295,
+            "h": 360
+          },
+          "anchor": {
+            "x": 1789,
+            "y": 1506
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "image": "/generated-assets/upper_hazards_atlas-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "aurora_booster",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 23,
+        "y": 41,
+        "w": 370,
+        "h": 317
+      },
+      "anchor": {
+        "x": 208,
+        "y": 357
+      }
+    },
+    {
+      "name": "clock_pendulum",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 518,
+        "y": 19,
+        "w": 243,
+        "h": 371
+      },
+      "anchor": {
+        "x": 640,
+        "y": 389
+      }
+    },
+    {
+      "name": "comet_fruit",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 822,
+        "y": 23,
+        "w": 333,
+        "h": 357
+      },
+      "anchor": {
+        "x": 989,
+        "y": 379
+      }
+    },
+    {
+      "name": "prism_switch",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1209,
+        "y": 27,
+        "w": 332,
+        "h": 351
+      },
+      "anchor": {
+        "x": 1375,
+        "y": 377
+      }
+    },
+    {
+      "name": "bone_spike",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1616,
+        "y": 19,
+        "w": 303,
+        "h": 370
+      },
+      "anchor": {
+        "x": 1768,
+        "y": 388
+      }
+    },
+    {
+      "name": "solar_vent",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 27,
+        "y": 442,
+        "w": 361,
+        "h": 319
+      },
+      "anchor": {
+        "x": 208,
+        "y": 760
+      }
+    },
+    {
+      "name": "gravity_orb",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 434,
+        "y": 430,
+        "w": 322,
+        "h": 354
+      },
+      "anchor": {
+        "x": 595,
+        "y": 783
+      }
+    },
+    {
+      "name": "glass_bell",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 850,
+        "y": 416,
+        "w": 270,
+        "h": 374
+      },
+      "anchor": {
+        "x": 985,
+        "y": 789
+      }
+    },
+    {
+      "name": "beam_eye",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1209,
+        "y": 418,
+        "w": 362,
+        "h": 367
+      },
+      "anchor": {
+        "x": 1390,
+        "y": 784
+      }
+    },
+    {
+      "name": "zenith_rune",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1604,
+        "y": 421,
+        "w": 326,
+        "h": 370
+      },
+      "anchor": {
+        "x": 1767,
+        "y": 790
+      }
+    }
+  ]
+}

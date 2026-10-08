@@ -1,0 +1,201 @@
+{
+  "image": "/generated-assets/signature_weapons_atlas-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "drake_fang",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 21,
+        "y": 166,
+        "w": 361,
+        "h": 90
+      },
+      "anchor": {
+        "x": 202,
+        "y": 255
+      }
+    },
+    {
+      "name": "pearl_harpoon",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 410,
+        "y": 156,
+        "w": 370,
+        "h": 114
+      },
+      "anchor": {
+        "x": 595,
+        "y": 269
+      }
+    },
+    {
+      "name": "thunder_bolt",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 807,
+        "y": 162,
+        "w": 363,
+        "h": 102
+      },
+      "anchor": {
+        "x": 989,
+        "y": 263
+      }
+    },
+    {
+      "name": "sakura_petal",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1195,
+        "y": 154,
+        "w": 370,
+        "h": 119
+      },
+      "anchor": {
+        "x": 1380,
+        "y": 272
+      }
+    },
+    {
+      "name": "scarab_arrow",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1596,
+        "y": 148,
+        "w": 360,
+        "h": 137
+      },
+      "anchor": {
+        "x": 1776,
+        "y": 284
+      }
+    },
+    {
+      "name": "venom_vial",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 21,
+        "y": 505,
+        "w": 360,
+        "h": 100
+      },
+      "anchor": {
+        "x": 201,
+        "y": 604
+      }
+    },
+    {
+      "name": "comet_wand",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 409,
+        "y": 503,
+        "w": 372,
+        "h": 105
+      },
+      "anchor": {
+        "x": 595,
+        "y": 607
+      }
+    },
+    {
+      "name": "rail_lance",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 807,
+        "y": 495,
+        "w": 363,
+        "h": 123
+      },
+      "anchor": {
+        "x": 989,
+        "y": 617
+      }
+    },
+    {
+      "name": "moon_shard",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1194,
+        "y": 490,
+        "w": 371,
+        "h": 132
+      },
+      "anchor": {
+        "x": 1380,
+        "y": 621
+      }
+    },
+    {
+      "name": "prism_arrow",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1596,
+        "y": 504,
+        "w": 360,
+        "h": 104
+      },
+      "anchor": {
+        "x": 1776,
+        "y": 607
+      }
+    }
+  ]
+}

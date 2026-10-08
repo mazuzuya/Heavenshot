@@ -1,0 +1,793 @@
+{
+  "image": "/generated-assets/upper_enemies_c-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 4,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "throne_guard_move_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 39,
+        "y": 41,
+        "w": 300,
+        "h": 312
+      },
+      "anchor": {
+        "x": 189,
+        "y": 352
+      }
+    },
+    {
+      "name": "throne_guard_move_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 431,
+        "y": 41,
+        "w": 306,
+        "h": 311
+      },
+      "anchor": {
+        "x": 584,
+        "y": 351
+      }
+    },
+    {
+      "name": "throne_guard_move_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 817,
+        "y": 42,
+        "w": 311,
+        "h": 311
+      },
+      "anchor": {
+        "x": 973,
+        "y": 352
+      }
+    },
+    {
+      "name": "throne_guard_move_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1208,
+        "y": 46,
+        "w": 307,
+        "h": 307
+      },
+      "anchor": {
+        "x": 1362,
+        "y": 352
+      }
+    },
+    {
+      "name": "throne_guard_move_5",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1597,
+        "y": 42,
+        "w": 302,
+        "h": 310
+      },
+      "anchor": {
+        "x": 1748,
+        "y": 351
+      }
+    },
+    {
+      "name": "throne_guard_attack_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 36,
+        "y": 426,
+        "w": 316,
+        "h": 307
+      },
+      "anchor": {
+        "x": 194,
+        "y": 732
+      }
+    },
+    {
+      "name": "throne_guard_attack_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 417,
+        "y": 433,
+        "w": 312,
+        "h": 301
+      },
+      "anchor": {
+        "x": 573,
+        "y": 733
+      }
+    },
+    {
+      "name": "throne_guard_attack_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 777,
+        "y": 442,
+        "w": 400,
+        "h": 292
+      },
+      "anchor": {
+        "x": 977,
+        "y": 733
+      }
+    },
+    {
+      "name": "throne_guard_attack_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1177,
+        "y": 435,
+        "w": 411,
+        "h": 299
+      },
+      "anchor": {
+        "x": 1383,
+        "y": 733
+      }
+    },
+    {
+      "name": "throne_guard_attack_5",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1589,
+        "y": 431,
+        "w": 320,
+        "h": 303
+      },
+      "anchor": {
+        "x": 1749,
+        "y": 733
+      }
+    },
+    {
+      "name": "crown_archon_move_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 39,
+        "y": 772,
+        "w": 329,
+        "h": 362
+      },
+      "anchor": {
+        "x": 204,
+        "y": 1133
+      }
+    },
+    {
+      "name": "crown_archon_move_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 425,
+        "y": 773,
+        "w": 352,
+        "h": 361
+      },
+      "anchor": {
+        "x": 601,
+        "y": 1133
+      }
+    },
+    {
+      "name": "crown_archon_move_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 817,
+        "y": 773,
+        "w": 345,
+        "h": 359
+      },
+      "anchor": {
+        "x": 990,
+        "y": 1131
+      }
+    },
+    {
+      "name": "crown_archon_move_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1204,
+        "y": 773,
+        "w": 352,
+        "h": 360
+      },
+      "anchor": {
+        "x": 1380,
+        "y": 1132
+      }
+    },
+    {
+      "name": "crown_archon_move_5",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1607,
+        "y": 772,
+        "w": 332,
+        "h": 362
+      },
+      "anchor": {
+        "x": 1773,
+        "y": 1133
+      }
+    },
+    {
+      "name": "crown_archon_attack_1",
+      "source": {
+        "x": 56,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 31,
+        "y": 1158,
+        "w": 354,
+        "h": 363
+      },
+      "anchor": {
+        "x": 208,
+        "y": 1520
+      }
+    },
+    {
+      "name": "crown_archon_attack_2",
+      "source": {
+        "x": 440,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 399,
+        "y": 1150,
+        "w": 380,
+        "h": 371
+      },
+      "anchor": {
+        "x": 589,
+        "y": 1520
+      }
+    },
+    {
+      "name": "crown_archon_attack_3",
+      "source": {
+        "x": 824,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 777,
+        "y": 1162,
+        "w": 434,
+        "h": 361
+      },
+      "anchor": {
+        "x": 994,
+        "y": 1522
+      }
+    },
+    {
+      "name": "crown_archon_attack_4",
+      "source": {
+        "x": 1208,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1184,
+        "y": 1159,
+        "w": 415,
+        "h": 353
+      },
+      "anchor": {
+        "x": 1392,
+        "y": 1511
+      }
+    },
+    {
+      "name": "crown_archon_attack_5",
+      "source": {
+        "x": 1592,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1606,
+        "y": 1158,
+        "w": 333,
+        "h": 364
+      },
+      "anchor": {
+        "x": 1773,
+        "y": 1521
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "throne_guard_move",
+      "frames": [
+        {
+          "name": "throne_guard_move_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 39,
+            "y": 41,
+            "w": 300,
+            "h": 312
+          },
+          "anchor": {
+            "x": 189,
+            "y": 352
+          }
+        },
+        {
+          "name": "throne_guard_move_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 431,
+            "y": 41,
+            "w": 306,
+            "h": 311
+          },
+          "anchor": {
+            "x": 584,
+            "y": 351
+          }
+        },
+        {
+          "name": "throne_guard_move_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 817,
+            "y": 42,
+            "w": 311,
+            "h": 311
+          },
+          "anchor": {
+            "x": 973,
+            "y": 352
+          }
+        },
+        {
+          "name": "throne_guard_move_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1208,
+            "y": 46,
+            "w": 307,
+            "h": 307
+          },
+          "anchor": {
+            "x": 1362,
+            "y": 352
+          }
+        },
+        {
+          "name": "throne_guard_move_5",
+          "source": {
+            "x": 1592,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1597,
+            "y": 42,
+            "w": 302,
+            "h": 310
+          },
+          "anchor": {
+            "x": 1748,
+            "y": 351
+          }
+        }
+      ]
+    },
+    {
+      "name": "throne_guard_attack",
+      "frames": [
+        {
+          "name": "throne_guard_attack_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 36,
+            "y": 426,
+            "w": 316,
+            "h": 307
+          },
+          "anchor": {
+            "x": 194,
+            "y": 732
+          }
+        },
+        {
+          "name": "throne_guard_attack_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 417,
+            "y": 433,
+            "w": 312,
+            "h": 301
+          },
+          "anchor": {
+            "x": 573,
+            "y": 733
+          }
+        },
+        {
+          "name": "throne_guard_attack_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 777,
+            "y": 442,
+            "w": 400,
+            "h": 292
+          },
+          "anchor": {
+            "x": 977,
+            "y": 733
+          }
+        },
+        {
+          "name": "throne_guard_attack_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1177,
+            "y": 435,
+            "w": 411,
+            "h": 299
+          },
+          "anchor": {
+            "x": 1383,
+            "y": 733
+          }
+        },
+        {
+          "name": "throne_guard_attack_5",
+          "source": {
+            "x": 1592,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1589,
+            "y": 431,
+            "w": 320,
+            "h": 303
+          },
+          "anchor": {
+            "x": 1749,
+            "y": 733
+          }
+        }
+      ]
+    },
+    {
+      "name": "crown_archon_move",
+      "frames": [
+        {
+          "name": "crown_archon_move_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 39,
+            "y": 772,
+            "w": 329,
+            "h": 362
+          },
+          "anchor": {
+            "x": 204,
+            "y": 1133
+          }
+        },
+        {
+          "name": "crown_archon_move_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 425,
+            "y": 773,
+            "w": 352,
+            "h": 361
+          },
+          "anchor": {
+            "x": 601,
+            "y": 1133
+          }
+        },
+        {
+          "name": "crown_archon_move_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 817,
+            "y": 773,
+            "w": 345,
+            "h": 359
+          },
+          "anchor": {
+            "x": 990,
+            "y": 1131
+          }
+        },
+        {
+          "name": "crown_archon_move_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1204,
+            "y": 773,
+            "w": 352,
+            "h": 360
+          },
+          "anchor": {
+            "x": 1380,
+            "y": 1132
+          }
+        },
+        {
+          "name": "crown_archon_move_5",
+          "source": {
+            "x": 1592,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1607,
+            "y": 772,
+            "w": 332,
+            "h": 362
+          },
+          "anchor": {
+            "x": 1773,
+            "y": 1133
+          }
+        }
+      ]
+    },
+    {
+      "name": "crown_archon_attack",
+      "frames": [
+        {
+          "name": "crown_archon_attack_1",
+          "source": {
+            "x": 56,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 31,
+            "y": 1158,
+            "w": 354,
+            "h": 363
+          },
+          "anchor": {
+            "x": 208,
+            "y": 1520
+          }
+        },
+        {
+          "name": "crown_archon_attack_2",
+          "source": {
+            "x": 440,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 399,
+            "y": 1150,
+            "w": 380,
+            "h": 371
+          },
+          "anchor": {
+            "x": 589,
+            "y": 1520
+          }
+        },
+        {
+          "name": "crown_archon_attack_3",
+          "source": {
+            "x": 824,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 777,
+            "y": 1162,
+            "w": 434,
+            "h": 361
+          },
+          "anchor": {
+            "x": 994,
+            "y": 1522
+          }
+        },
+        {
+          "name": "crown_archon_attack_4",
+          "source": {
+            "x": 1208,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1184,
+            "y": 1159,
+            "w": 415,
+            "h": 353
+          },
+          "anchor": {
+            "x": 1392,
+            "y": 1511
+          }
+        },
+        {
+          "name": "crown_archon_attack_5",
+          "source": {
+            "x": 1592,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1606,
+            "y": 1158,
+            "w": 333,
+            "h": 364
+          },
+          "anchor": {
+            "x": 1773,
+            "y": 1521
+          }
+        }
+      ]
+    }
+  ]
+}
